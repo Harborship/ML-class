@@ -7,3 +7,7 @@
     1. model_selection의 중요성 이해
     2. model_selection중 train-test dataset을 만들어주는 train_test split() 학습
     3. 모델에 대한 최적의 Hyperparameter를 튜닝해주고 동시에 교차검증도 해주는 GridSearchCV 학습
+### About evaluation of model
+    1. confusion_matrix에 대한 이해
+    2. precision, recall, f1_score에 대한 이해
+    3. ROC & AUC에 대한 이해
